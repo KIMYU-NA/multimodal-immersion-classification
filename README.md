@@ -2,8 +2,6 @@
 
 Binary classification of user immersion states using heterogeneous biological signals — EEG, GSR, and PPG — with a cross-modal attention-based deep learning model.
 
-Developed as part of undergraduate research at **DHL Lab, Hanyang University ERICA** (Mar. 2025 – Feb. 2026).
-
 ---
 
 ## Architecture
